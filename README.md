@@ -1,2 +1,2 @@
 # sample-3
-demo-repos
+demo-repos-3
